@@ -48,4 +48,4 @@ export default Example;
 //   return [value, setValue];
 // }
 
-// const [ kossher, setKossher ] = useState("");
+// const [ name, setName ] = useState("");
